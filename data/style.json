@@ -1,0 +1,37 @@
+{
+    "version": 8,
+    "name": "Blank",
+    "metadata": {
+        "mapbox:autocomposite": true,
+        "mapbox:type": "template",
+        "mapbox:sdk-support": {
+            "js": "0.45.0",
+            "android": "6.0.0",
+            "ios": "4.0.0"
+        }
+    },
+    "center": [
+        0,
+        0
+    ],
+    "zoom": 0,
+    "sources": {},
+    "sprite": "mapbox://sprites/stinewoodward/cjhxzsthx2wr12roi76m3s2gu",
+    "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
+    "layers": [
+        {
+            "id": "background",
+            "type": "background",
+            "paint": {
+                "background-color": "rgba(0,0,0,0)"
+            },
+            "interactive": true
+        }
+    ],
+    "created": "2018-06-02T22:52:12.870Z",
+    "id": "cjhxzsthx2wr12roi76m3s2gu",
+    "modified": "2018-06-02T22:52:12.870Z",
+    "owner": "stinewoodward",
+    "visibility": "private",
+    "draft": false
+}
